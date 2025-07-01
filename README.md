@@ -26,17 +26,25 @@ Normalmente nos meus projetos WEB eu utilizo o $${\color{#1694ff}Ant \space desi
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,git,md,mysql,nextjs,nodejs,npm,react,sqlite,tailwind,ts,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,next,nodejs)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Delphi-%23E9573F?style=for-the-badge&logo=delphi&logoColor=white"/>
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=git,npm,md)](https://skillicons.dev)
 </p>
 
 ## 🛠️ IDE
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Embarcadero-%23E9573F?style=for-the-badge&logo=embarcadero&logoColor=white"/>
 <img src="https://img.shields.io/badge/IBExpert-%2300AF2C?style=for-the-badge&logo=ibexpert&logoColor=white"/>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,github,postman)](https://skillicons.dev)
 
 </p>
 
