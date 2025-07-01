@@ -1,39 +1,49 @@
-<!-- Pixel-art inspired, colorful, and cute README for Gottschalk16 -->
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" width="64" title="Squirtle"/>
-  <br />
-  Hi, I'm <span style="color:#40a4df;">Raianne Gottschalk</span>!
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Github!&fontColor=fff&fontAlignY=35&desc=Pokémon%20Fan%20%7C%20Colorful%20Coder&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bem%20vindo!&fontColor=fff&fontAlignY=35"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" title="Bulbasaur"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" title="Squirtle"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" title="Charmander"/>
 </p>
 
----
+## 🧑‍💻 Sobre mim
 
-## 🧑‍💻 About Me
+- 🖥️ **Analista e programadora** sou apaixonada por tecnologia, estou na área desde os meus 15!
+- Estou trabalhando na área a 5 anos com Delphi.
+- Já criei e desenvolvi alguns projetos sozinha como:
+  - Ecommerce.
+  - Gerenciamento de tickets.
+  - Integração com a API do IMendes no ERP.
+  - Dashboard.
+  - Projeto de documentação de APIs.
+<br/>
 
-- 🖥️ **Developer** passionate about technology, creativity, and all things pixel art!
-- 🐢 **Pokémon lover** — my favorite is Squirtle!  
-- 🎨 I love colorful, cute, and playful designs.
+Normalmente nos meus projetos WEB eu utilizo o <b style="color:#1694ff">Ant design</b> e o <b style="color:green">EggJS</b>, mas ando explorando o <b>HeroUI</b> e o <b>Tama<span style="color:#ed0f0f">g</span><span style="color:#6bcf1a">u</span><span style="color:#6252f8">i</span></b> para aumentar meus horizontes.
+
+```Já liderei o desenvolvimento de um novo produto para o comércio.```
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Delphi-%23E9573F?style=for-the-badge&logo=delphi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-%2300C7B7?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-%23007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+[![My Skills](https://skillicons.dev/icons?i=js,git,md,mysql,nextjs,nodejs,npm,react,sqlite,tailwind,ts,postgres)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Delphi-%23E9573F?style=for-the-badge&logo=delphi&logoColor=white"/>
+</p>
+
+## 🛠️ IDE
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,github,postman)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Embarcadero-%23E9573F?style=for-the-badge&logo=embarcadero&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBExpert-%2300AF2C?style=for-the-badge&logo=ibexpert&logoColor=white"/>
+
 </p>
 
 ---
 
-## 💬 Favorite Quote
+## 💬 Frase que eu levo para a minha vida
+
 > _"O amor ao trabalho torna mais leve a carga de dissabores que o trabalho possa trazer."_
 
 ---
@@ -41,10 +51,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="120" title="Squirtle" />
   <br />
-  <b>“Keep coding, keep growing — and stay cute like Squirtle!”</b>
 </div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
