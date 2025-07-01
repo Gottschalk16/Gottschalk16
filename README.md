@@ -18,7 +18,7 @@
   - Projeto de documentação de APIs.
 <br/>
 
-Normalmente nos meus projetos WEB eu utilizo o <b style="color:#1694ff">Ant design</b> e o <b style="color:green">EggJS</b>, mas ando explorando o <b>HeroUI</b> e o <b>Tama<span style="color:#ed0f0f">g</span><span style="color:#6bcf1a">u</span><span style="color:#6252f8">i</span></b> para aumentar meus horizontes.
+Normalmente nos meus projetos WEB eu utilizo o $${\color{#1694ff}Ant \space design}$$ e o $${\color{#53c866}EggJS}$$, mas ando explorando o $${HeroUI}$$ e o $${Tama \color{#ed0f0f}g \color{#6bcf1a}u \color{#6252f8}i}$$ para aumentar meus horizontes.
 
 ```Já liderei o desenvolvimento de um novo produto para o comércio.```
 
