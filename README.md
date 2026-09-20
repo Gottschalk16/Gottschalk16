@@ -9,18 +9,24 @@
 ## 🧑‍💻 Sobre mim
 
 - 🖥️ **Analista e programadora** sou apaixonada por tecnologia, estou na área desde os meus 15!
-- Estou trabalhando na área a 5 anos com Delphi.
+- Estou trabalhando na área a 6 anos, sendo 5 anos em Delphi.
 - Já criei e desenvolvi alguns projetos sozinha como:
-  - Ecommerce.
-  - Gerenciamento de tickets.
-  - Integração com a API do IMendes no ERP.
-  - Dashboard.
-  - Projeto de documentação de APIs.
+  - Ecommerce. (NextJS + HeroUI)
+  - Gerenciamento de tickets. (NextJS + HeroUI)
+  - Integração com a API do IMendes no ERP. (Delphi)
+  - Integração com a API do CIOT da EFrete. (Delphi)
+  - Dashboard's. (NextJS + HeroUI + Rechats)
+  - Projeto de documentação de APIs. (AntDesing)
+  - Projeto WEB multizones com Vercel. (NextJS + HeroUI)
+  - Aplicação web de bipagem de volumes integrado com TMS de uma transportadora. (NextJS + HeroUI + NestJS)
+  - Aplicação web para gestão de trocas de gelo. (NextJS + HeroUI)
+  - Aplicação web voltado à gestão de frota de uma transportadora. (NextJS + HeroUI)
+  - Aplicação web de monitoramento de documentos da empresa. (NextJS + HeroUI)
 <br/>
 
-Normalmente nos meus projetos WEB eu utilizo o $${\color{#1694ff}Ant \space design}$$ e o $${\color{#53c866}EggJS}$$, mas ando explorando o $${HeroUI}$$ e o $${Tama \color{#ed0f0f}g \color{#6bcf1a}u \color{#6252f8}i}$$ para aumentar meus horizontes.
+Normalmente nos meus projetos WEB eu utilizo o $${\color{#1694ff}Ant \space design}$$ e o $${\color{#1694ff}NextJS \space + \space HeroUI}$$ o $${\color{#53c866}EggJS}$$ e o $${\color{#cd374b}NestJS}, ando atualmente estudando o $${Tama \color{#ed0f0f}g \color{#6bcf1a}u \color{#6252f8}i}$$ para aumentar meus horizontes.
 
-```Já liderei o desenvolvimento de um novo produto para o comércio.```
+```Já liderei o desenvolvimento de um novo produto PDV mobile para o comércio.```
 
 ## 🛠️ Skills
 
@@ -47,6 +53,9 @@ Normalmente nos meus projetos WEB eu utilizo o $${\color{#1694ff}Ant \space desi
 [![My Skills](https://skillicons.dev/icons?i=figma,github,postman)](https://skillicons.dev)
 
 </p>
+
+## 🤖 IA
+***Atualmente utilizo o Claude code para auxiliar o desenvolvimento dos meus projetos no dia a dia.***
 
 ---
 
