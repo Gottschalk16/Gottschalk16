@@ -24,7 +24,7 @@
   - Aplicação web de monitoramento de documentos da empresa. (NextJS + HeroUI)
 <br/>
 
-Normalmente nos meus projetos WEB eu utilizo o $${\color{#1694ff}Ant \space design}$$ e o $${\color{#1694ff}NextJS \space + \space HeroUI}$$ o $${\color{#53c866}EggJS}$$ e o $${\color{#cd374b}NestJS}.
+Normalmente nos meus projetos WEB eu utilizo o $${\color{#1694ff}Ant \space design}$$ e o $${\color{#1694ff}NextJS \space + \space HeroUI}$$ o $${\color{#53c866}EggJS}$$ e o $${\color{#cd374b}NestJS}$$.
 
 ```Já liderei o desenvolvimento de um novo produto PDV mobile para o comércio.```
 
