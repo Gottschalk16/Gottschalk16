@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" title="Charmander"/>
 </p>
 
-## 🧑‍💻 Sobre mim
+## 👧💻 Sobre mim
 
 - 🖥️ **Analista e programadora** sou apaixonada por tecnologia, estou na área desde os meus 15!
 - Estou trabalhando na área a 6 anos, sendo 5 anos em Delphi.
